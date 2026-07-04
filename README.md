@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Lesedi Modikwe
 
-<!--
-**analystmodikwe/analystmodikwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer and AI enthusiast from South Africa. I enjoy building web applications, solving problems with JavaScript, and continuously learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,npm" />
+</p>🌱 Currently Learning
+
+- Advanced JavaScript
+- React
+- AI Software Development
+- Cloud Engineering
+
+📈 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=analystmodikwe&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=analystmodikwe&layout=compact)
+
+📫 Connect With Me
+
+- GitHub: https://github.com/analystmodikwe
