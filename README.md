@@ -7,7 +7,7 @@ I'm an aspiring Software Developer and AI enthusiast from South Africa. I enjoy 
 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode,npm" />
 </p>🌱 Currently Learning
 
 - Advanced JavaScript
