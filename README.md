@@ -11,9 +11,10 @@ I'm an aspiring Software Developer and AI enthusiast from South Africa. I enjoy 
 </p>🌱 Currently Learning
 
 - Advanced JavaScript
+- -TypeScript
 - React
 - AI Software Development
-- Cloud Engineering
+  
 
 📈 GitHub Stats
 
