@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I'm an aspiring Software Developer and AI enthusiast from South Africa. I enjoy building web applications, solving problems with JavaScript, and continuously learning modern technologies.
+I'm an AI Full-Stack Software Developer and AI enthusiast from South Africa. I enjoy building web applications, solving problems with JavaScript, and continuously learning modern technologies.
 
 💻 Tech Stack
 
