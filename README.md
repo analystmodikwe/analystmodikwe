@@ -23,3 +23,4 @@ I'm an AI Full-Stack Software Developer and AI enthusiast from South Africa. I e
 📫 Connect With Me
 
 - GitHub: https://github.com/analystmodikwe
+- https://www.linkedin.com/in/lesedi-modikwe/
